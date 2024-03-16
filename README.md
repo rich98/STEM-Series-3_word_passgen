@@ -1,4 +1,4 @@
-# (Unofficial)NCSC_3_word_passgen
+# 3_word_passgen
 
 ## NOTICE: This tool is not endoursed by the NCSC or any other goverment or commercial entity but takes inspiration from NCSC publicly avalaiable informatiom.
 
