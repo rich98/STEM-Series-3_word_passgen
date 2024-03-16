@@ -9,6 +9,12 @@ There is a bit of logic in there to ensure the password length will always be 12
 
 The script reads a list of words from a text file. It then randomly selects three words, capitalizes them, and concatenates them. It also generates a random special character and a two-digit number, and appends them to the end of the password. The password is then displayed in the GUI.
 
+## Setup
+
+Update line six, enter a path to your wordlist. A wordlist has been provided it has thousands of words.
+Lines 8, 9 and control word miniuim length.
+
+
 ## Usage
 
 To use this script, simply run it and click the "Generate Password" button. A new password will be generated each time you click the button.
