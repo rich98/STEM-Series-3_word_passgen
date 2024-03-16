@@ -12,7 +12,7 @@ The script reads a list of words from a text file. It then randomly selects thre
 ## Setup
 
 Update line six, enter a path to your wordlist. A wordlist has been provided it has thousands of words.
-Lines 8, 9 and control word miniuim length.
+Lines 8, 9 and 10 control word miniuim length.
 
 
 ## Usage
