@@ -16,7 +16,7 @@ Lines 8, 9 and 10 control word miniuim length.
 
 ## UPDATE: versions after 1.1
 
-For version 1.1 the word file has to be in the same directory as the python script, no need to udate the script
+For version 1.1 the word.txt file has to be in the same directory as the python script, no need to udate the script
 
 
 ## Usage
