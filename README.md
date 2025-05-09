@@ -9,10 +9,14 @@ There is a bit of logic in there to ensure the password length will always be 12
 
 The script reads a list of words from a text file. It then randomly selects three words, capitalizes them, and concatenates them. It also generates a random special character and a two-digit number, and appends them to the end of the password. The password is then displayed in the GUI.
 
-## Setup
+## Setup for versions before 1.1
 
 Update line six, enter a path to your wordlist. A wordlist has been provided it has thousands of words.
-Lines 8, 9 and 10 control word miniuim length.
+Lines 8, 9 and 10 control word miniuim length. 
+
+## UPDATE: versions after 1.1
+
+For version 1.1 the word file has to be in the same directory as the python script, no need to udate the script
 
 
 ## Usage
