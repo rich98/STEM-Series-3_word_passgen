@@ -1,5 +1,7 @@
 # 3_word_passgen Latest version 1.2
 
+Now supports French and spanish
+
 # Password Generator
 
 This is a simple password generator script written in Python. It uses the Tkinter library for the GUI and generates passwords that consist of three words, each word starts with a uppercase letter the password will have a special character, and a two-digit number. 
