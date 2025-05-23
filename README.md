@@ -1,4 +1,4 @@
-# 3_word_passgen
+# 3_word_passgen Latest version 1.2
 
 # Password Generator
 
